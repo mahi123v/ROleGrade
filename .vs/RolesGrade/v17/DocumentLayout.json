@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\models\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:models\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\controllers\\rolegradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:controllers\\rolegradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|c:\\users\\nikhitha\\source\\repos\\rolesgrade\\rolegradedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73724F64-C888-4DDE-B430-E3E662620026}|RolesGrade.csproj|solutionrelative:rolegradedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalaryController.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "Controllers\\SalaryController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:15:07.097Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-17T20:16:22.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordResetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Models\\PasswordResetRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordResetRequest.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Models\\PasswordResetRequest.cs",
+              "RelativeToolTip": "Models\\PasswordResetRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:54:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:53:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:46:48.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:08:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleGradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\RoleGradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleGradeController.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\RoleGradeController.cs",
+              "RelativeToolTip": "Controllers\\RoleGradeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:13:28.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:45:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleGradeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\RoleGradeDBContext.cs",
+              "RelativeDocumentMoniker": "RoleGradeDBContext.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\RoleGradeDBContext.cs",
+              "RelativeToolTip": "RoleGradeDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:16:40.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T19:45:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Nikhitha\\source\\repos\\RolesGrade\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T14:00:28.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

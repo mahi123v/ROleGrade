@@ -1,19 +1,17 @@
-﻿
-
-# Use the official ASP.NET Core runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
-WORKDIR /app
-EXPOSE 80
-
-# Build stage
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+﻿# Use official .NET SDK 8.0 for build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY . .
+COPY ["RolesGrade.csproj", "./"]
 RUN dotnet restore "RolesGrade.csproj"
-RUN dotnet publish "RolesGrade.csproj" -c Release -o /app/publish
+COPY . .
+RUN dotnet build -c Release -o /app/build
 
-# Final stage
-FROM base AS final
+# Publish the app
+FROM build AS publish
+RUN dotnet publish -c Release -o /app/publish
+
+# Use a smaller runtime image for running the app
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
-COPY --from=build /app/publish .
+COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "RolesGrade.dll"]

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RolesGrade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a29e4cd889f4620dbe443646f238f4a3615662f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RolesGrade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RolesGrade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
